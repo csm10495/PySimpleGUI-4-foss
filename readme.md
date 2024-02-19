@@ -18,6 +18,8 @@
 >
 > Unless there's much traction (and I have time) I won't accept modifications (or do
 > them myself). Feel free to fork and use your GPLv3 rights and liberties.
+> I've published this version on PyPi as https://pypi.org/project/PySimpleGUI-4-foss/4.60.4/
+> `pip install PySimpleGUI-4-foss`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png" alt="User Interfaces for Humans">
